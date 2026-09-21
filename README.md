@@ -11,4 +11,16 @@ This Python project calculates the total marks, percentage, and grade of a stude
 
 ## Technologies Used
 
-- Python
+- Pytho
+
+## Sample Output
+
+Enter marks: 90
+Enter marks: 80
+Enter marks: 75
+Enter marks: 85
+Enter marks: 95
+
+Total: 425
+Percentage: 85.0
+Grade: A
